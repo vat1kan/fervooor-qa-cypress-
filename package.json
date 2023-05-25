@@ -1,0 +1,5 @@
+{
+  "scripts": {
+    "open": "D:/study/MG/QA/cypress/node_modules/.bin/cypress open"
+  }
+}
